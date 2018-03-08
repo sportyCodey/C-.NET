@@ -1,4 +1,4 @@
-# C-.NET
+# C_Sharp.NET
 Some of my work in C#.NET
 
 I plan on taking Advanced C#.NET programming either in Fall 2018 or Spring 2019. As of now, I am 100% self-taught in C#.
