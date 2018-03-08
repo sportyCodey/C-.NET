@@ -9,5 +9,5 @@ the drag and drop GUI.
 There aren't many programs to display becuase I'm still in the process of self teaching myself the language (basically the syntax). 
 The programs are textbook problems. I'm trying to get down the syntax and pick up other things that Java and C++ do not have. 
 
-I'm excited to self-teach myself how to incorporate GUI in my applications when I get there in the textbook.
-I want to post my appliations on the Windows store once I get good enough.
+I'm excited to self-teach myself how to incorporate code with GUI in my applications when I get there in the textbook.
+I want to post my applications on the Windows store once I get good enough.
