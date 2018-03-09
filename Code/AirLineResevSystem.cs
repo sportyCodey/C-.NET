@@ -1,3 +1,5 @@
+//This program simulates an airline reservation system
+
 using System;
 
 class AirLineResevSystem
