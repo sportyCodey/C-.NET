@@ -1,3 +1,5 @@
+//A simple class representing a rectangle
+
 public class Rectangle
 {
     private double length = 1.0;
