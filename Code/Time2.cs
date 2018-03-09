@@ -1,5 +1,5 @@
-/* this class is not my work, but I did to modifications to it according
- * to textbook problem. See copyright below */
+/* this whole class is not my work, but I did do modifications to it according
+ * to a textbook problem. See copyright below */
 
 // Fig. 10.5: Time2.cs
 // Time2 class declaration with overloaded constructors.  
