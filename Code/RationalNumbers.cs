@@ -1,3 +1,5 @@
+//This class manipulates rational numbers
+
 using System;
 
 public class RationalNumbers
