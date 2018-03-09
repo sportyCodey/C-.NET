@@ -1,3 +1,5 @@
+//A class for demonstrating a savings account
+
 public class SavingsAccount
 {
     public static decimal AnnualInterestRate { get; set; }
