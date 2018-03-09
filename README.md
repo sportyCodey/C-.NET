@@ -15,6 +15,8 @@ basic GUI made from Microsoft Visual Studio. I'm also learning my way around tha
 the drag and drop GUI. 
 
 There aren't many programs to display becuase I'm still in the process of self teaching myself the language (basically the syntax). 
-The programs are solutions to textbook problems from Visual C# How to Program Sixth Edition by Deitel. I'm trying to get down the syntax and pick up other things that Java and C++ do not have. 
+The programs are solutions to textbook problems from Visual C# How to Program Sixth Edition by Deitel. I'm trying to get down the syntax and pick up other things that Java and C++ do not have.
 
 I'm excited to self-teach myself how to incorporate code with GUI in my applications. I want to post my applications on the Windows store once I get good enough.
+
+These files are in no specific order.
