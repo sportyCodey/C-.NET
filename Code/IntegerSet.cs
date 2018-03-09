@@ -1,3 +1,5 @@
+//This class is used to manipulate a boolean array
+
 using System;
 
 public class IntegerSet
