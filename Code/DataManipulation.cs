@@ -1,3 +1,5 @@
+//This is the abstract class to manipulate data
+
 abstract class DataManipulation
 {
     public int Num { get; set; }
