@@ -1,6 +1,14 @@
 # C_Sharp.NET
 Some of my work in C#.NET
 
+Before I get into the details, here's a quick run down on the folders posted:
+
+The screenshots of some practice GUI I made: Screenshots
+********************************************************
+
+My C# code: Code
+********************************************************
+
 I plan on taking Advanced C#.NET programming either in Fall 2018 or Spring 2019. As of now, I am 100% self-taught in C#.
 It's not too difficult since C# resembles Java and C++ (both of which I'm very familiar with). Some files are screenshots of
 basic GUI made from Microsoft Visual Studio. I'm also learning my way around that IDE and the powerful things it can do, which includes
