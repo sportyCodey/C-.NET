@@ -1,3 +1,5 @@
+//This program separates digits
+
 using System;
 
 class SeparatingDigits
