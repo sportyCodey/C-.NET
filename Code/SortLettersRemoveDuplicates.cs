@@ -1,3 +1,5 @@
+//This program sorts letters and removes duplicates
+
 using System;
 using System.Linq;
 using System.Collections.Generic; 
