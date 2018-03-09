@@ -1,3 +1,5 @@
+//This program uses LINQ to query
+
 using System;
 using System.Linq;
 
