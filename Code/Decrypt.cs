@@ -1,3 +1,5 @@
+//This class decrypts numbers
+
 class Decrypt: DataManipulation
 {
     public Decrypt()
