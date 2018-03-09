@@ -1,3 +1,5 @@
+//This finds the GCD
+
 using System;
 
 class GreatestCommonDivisor
