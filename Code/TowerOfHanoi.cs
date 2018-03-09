@@ -1,3 +1,5 @@
+//This program simulates the tower of hanoi
+
 using System;
 
 class TowerOfHanoi
