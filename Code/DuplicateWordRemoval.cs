@@ -1,3 +1,5 @@
+//This removes duplicate words
+
 using System;
 using System.Linq;
 
