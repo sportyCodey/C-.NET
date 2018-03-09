@@ -1,3 +1,5 @@
+//This program simulates the tortoise and the hare race
+
 using System;
 
 class TortoiseHareSimulation
