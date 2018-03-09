@@ -1,3 +1,5 @@
+//This class encrypts numbers
+
 class Encrypt: DataManipulation
 {
     public Encrypt()
