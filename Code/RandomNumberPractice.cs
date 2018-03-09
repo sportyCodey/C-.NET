@@ -1,3 +1,5 @@
+//Practice using random numbers
+
 using System;
 
 class RandomNumberPractice
