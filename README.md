@@ -6,7 +6,7 @@ Before I get into the details, here's a quick run down of each folder posted:
 The screenshots of some practice GUI I made: Screenshots
 ********************************************************
 
-My C# code: Code
+Some of my C# code: Code
 ********************************************************
 
 I plan on taking Advanced C#.NET programming either in Fall 2018 or Spring 2019. As of now, I am 100% self-taught in C#.
